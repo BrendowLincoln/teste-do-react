@@ -1,4 +1,4 @@
-import { ChevronRightIcon, DeleteIcon, Trash2Icon, TrashIcon } from "lucide-react";
+import { ChevronRightIcon,  TrashIcon } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 function Tasks(props) {
